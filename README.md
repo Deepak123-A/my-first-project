@@ -5,7 +5,7 @@ It showcases my skills, projects, and contact information — all in a clean, re
 
 ## 🔗 Live Demo
 
-👉 [Click here to view live](https://yourusername.github.io/your-repo-name)
+👉 [Click here to view live](https://deepak123-a.github.io/my-first-project/)
 
 ## 📁 Features
 
