@@ -1,48 +1,49 @@
-# 💼 Personal Portfolio Website
+# Deepak Kumar - Web Developer Portfolio
 
-This is my **personal portfolio website** built using **HTML** and **CSS**.  
-It showcases my skills, projects, and contact information — all in a clean, responsive layout.
+Welcome to my personal portfolio!  
+Here you will find information about my skills, projects, and how to get in touch with me.
 
-## 🔗 Live Demo
+## 🚀 Live Demo
 
-👉 [Click here to view live](https://deepak123-a.github.io/my-first-project/)
+👉 [Click here to view my live portfolio](https://deepak123-a.github.io/my-first-project/)
 
 ## 📁 Features
 
-- Modern, clean design
-- Responsive layout
+- Clean and modern design
+- Fully responsive layout
 - Sections: About Me, Skills, Projects, Contact
-- Easy to customize
+- Built using HTML5, CSS3
 
-## 🛠️ Built With
+## 🛠 Built With
 
 - HTML5
 - CSS3
-- Google Fonts
+- Google Fonts (Poppins)
 
 ## 📷 Screenshot
 
-![Portfolio Screenshot](screenshot.png) <!-- You can upload a screenshot and rename it here -->
+![Portfolio Screenshot](screenshot.png) <!-- If you have a screenshot, replace this with the file name -->
 
 ## 🧑‍💻 Author
 
-- **Your Name**
-- [GitHub](https://github.com/yourusername)
-- [LinkedIn](https://www.linkedin.com/in/deepak-kumar-53a20335a)
-## 📬 Contact
+- **Deepak Kumar**
+- [GitHub](https://github.com/deepak123-a)
+- [LinkedIn](https://linkedin.com/in/deepak-kumar-53a20335a)
 
-If you'd like to connect or offer feedback, feel free to reach out at:  
-📧 your.email@example.com
+## 📬 Contact Me
+
+- Email: [daviddeepak670@gmail.com](mailto:daviddeepak670@gmail.com)
+- GitHub: [@deepak123-a](https://github.com/deepak123-a)
+- LinkedIn: [@deepak-kumar-53a20335a](https://linkedin.com/in/deepak-kumar-53a20335a)
 
 ---
 
 ### 📝 How to Use (Optional Section)
 
-You can download or fork this repository and:
-
-1. Open `index.html` in your browser
-2. Customize text, links, and styles in `style.css`
-3. Push changes to GitHub to update the live site
+1. Fork or clone this repository
+2. Open `index.html` in your browser to view the website locally
+3. Customize content and upload to your own GitHub Pages
 
 ---
 
+© 2025 Deepak Kumar
