@@ -28,8 +28,7 @@ It showcases my skills, projects, and contact information — all in a clean, re
 
 - **Your Name**
 - [GitHub](https://github.com/yourusername)
-- [LinkedIn](www.linkedin.com/in/deepak-kumar-53a20335a)
-
+- [LinkedIn](https://www.linkedin.com/in/deepak-kumar-53a20335a)
 ## 📬 Contact
 
 If you'd like to connect or offer feedback, feel free to reach out at:  
